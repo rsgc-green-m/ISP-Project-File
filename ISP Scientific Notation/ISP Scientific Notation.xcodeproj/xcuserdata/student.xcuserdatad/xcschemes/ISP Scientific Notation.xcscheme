@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3F2702851C8DF21A00C201AE"
-               BuildableName = "Scientific Notation"
-               BlueprintName = "Scientific Notation"
-               ReferencedContainer = "container:Scientific Notation.xcodeproj">
+               BlueprintIdentifier = "3FAFD6091C922B03009DFCC3"
+               BuildableName = "ISP Scientific Notation"
+               BlueprintName = "ISP Scientific Notation"
+               ReferencedContainer = "container:ISP Scientific Notation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F2702851C8DF21A00C201AE"
-            BuildableName = "Scientific Notation"
-            BlueprintName = "Scientific Notation"
-            ReferencedContainer = "container:Scientific Notation.xcodeproj">
+            BlueprintIdentifier = "3FAFD6091C922B03009DFCC3"
+            BuildableName = "ISP Scientific Notation"
+            BlueprintName = "ISP Scientific Notation"
+            ReferencedContainer = "container:ISP Scientific Notation.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F2702851C8DF21A00C201AE"
-            BuildableName = "Scientific Notation"
-            BlueprintName = "Scientific Notation"
-            ReferencedContainer = "container:Scientific Notation.xcodeproj">
+            BlueprintIdentifier = "3FAFD6091C922B03009DFCC3"
+            BuildableName = "ISP Scientific Notation"
+            BlueprintName = "ISP Scientific Notation"
+            ReferencedContainer = "container:ISP Scientific Notation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F2702851C8DF21A00C201AE"
-            BuildableName = "Scientific Notation"
-            BlueprintName = "Scientific Notation"
-            ReferencedContainer = "container:Scientific Notation.xcodeproj">
+            BlueprintIdentifier = "3FAFD6091C922B03009DFCC3"
+            BuildableName = "ISP Scientific Notation"
+            BlueprintName = "ISP Scientific Notation"
+            ReferencedContainer = "container:ISP Scientific Notation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

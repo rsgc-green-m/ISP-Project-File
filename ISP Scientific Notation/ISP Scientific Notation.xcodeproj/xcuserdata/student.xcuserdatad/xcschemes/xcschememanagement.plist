@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Scientific Notation.xcscheme</key>
+		<key>ISP Scientific Notation.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3F2702851C8DF21A00C201AE</key>
+		<key>3FAFD6091C922B03009DFCC3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
